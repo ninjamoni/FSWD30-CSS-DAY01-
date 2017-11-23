@@ -1,0 +1,35 @@
+.div{
+	margin: 12px
+}
+
+div[class~="first"]{
+	float:  right
+}
+
+div[class~"right"] {
+	float: right;
+	position:   
+}
+
+p  {
+	color:  blueviolet;
+}
+
+h1 {
+	color:  limegreen;
+}
+
+div {
+	color: lightpink;
+}
+# right {
+	color: red;
+}
+
+# {
+	color: blue;
+}
+
+
+
+
